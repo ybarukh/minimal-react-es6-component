@@ -1,7 +1,8 @@
 # Composant(s) React ES6 sous forme de `library`
 1. git clone git@git-prd.server.lan:barukh/minimal-react-es6-component.git
-2. Renommer le nom dans le `package.json`
-3. Coder les composants dans le repertoire `lib/components` ou `lib/elements` selon granularité
+2. *Débrancher* *(supprimer)* le `.git` et *brancher* vers le Repo GIT du projet
+3. Renommer le nom dans le `package.json`
+4. Coder les composants dans le repertoire `lib/components` ou `lib/elements` selon granularité
 
 # Utiliser le(s) composant(s)
 1. `npm run pack` va générer un fichier <package.name>-<version>.tgz
