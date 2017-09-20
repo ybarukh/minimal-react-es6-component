@@ -1,1 +1,1 @@
-copy /Y /B *.tgz Q:\AAG\javascript-npm-packages
+copy /Y /B *.tgz Q:\...\javascript-npm-packages
