@@ -48,7 +48,7 @@ Dans le projet cible `npm install --save --no-optional ..\chemin vers le projet\
 ## Local publish
 
 `npm run localpublish`   
-Copie le `package.tgz` dans le répertoire réseau `Q:\AAG\javascript-npm-packages` 
+Copie le `package.tgz` dans le répertoire réseau `Q:\...\javascript-npm-packages` 
 
 ----------
 ## Liens
