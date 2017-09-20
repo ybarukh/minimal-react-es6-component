@@ -13,7 +13,7 @@ Par Exemple : `lib/components/AwesomeComponent.js`
 2. Utiliser `sample/app/index.js`   
 Par exemple:
 
-```javascript
+```react
 
 import React from 'react';
 import { render } from 'react-dom';
@@ -33,6 +33,7 @@ class App extends React.Component {
 
 3. Démarrer le serveur de DEV   
 `npm run dev`
+
 ---
 
 ## Construire le(s) composant(s)
