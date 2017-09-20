@@ -12,7 +12,9 @@ Par Exemple : `lib/components/AwesomeComponent.js`
 
 2. Utiliser `sample/app/index.js`   
 Par exemple:
-```jsx
+
+```javascript
+
 import React from 'react';
 import { render } from 'react-dom';
 import AwesomeComponent from '../../lib/components/AwesomeComponent.js';
