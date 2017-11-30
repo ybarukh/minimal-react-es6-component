@@ -2,6 +2,10 @@ import React from 'react';
 import { render } from 'react-dom';
 import AwesomeComponent from '../../lib/components/AwesomeComponent.js';
 
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap/dist/css/bootstrap-theme.css'
+import './style.css'
+
 class App extends React.Component {
 	render() {
 		return (
